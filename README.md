@@ -7,6 +7,8 @@
 |Frequency |Daily 9am SGT|
 |Prod Start Date|2024-03-22|
 
+[Fuel Watch Today Tableau Dashboard](https://public.tableau.com/app/profile/dan.hai8406/viz/FuelWatchProjectTableau/FuelWatchToday)
+
 [Summary	1](#_toc122063744)
 
 [High Level Data Architecture	1](#_toc1882525152)
