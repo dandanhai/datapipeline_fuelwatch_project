@@ -7,7 +7,7 @@
 |Frequency |Daily 9am SGT|
 |Prod Start Date|2024-03-22|
 
-[Fuel Watch Today Tableau Dashboard](https://public.tableau.com/app/profile/dan.hai8406/viz/FuelWatchProjectTableau/FuelWatchToday)
+[Fuel Watch Today Tableau Dashboard](#_toc122063743)
 
 [Summary	1](#_toc122063744)
 
@@ -23,12 +23,15 @@
 
 [Azure SQL DB Design	5](#_toc143885388)
 
-[Suggestion on CI/CD approach for the product development	6](#_toc757941834)
+[Suggestion on CI/CD approach for the product development 6](#_toc757941834)
 
 [Miscellaneous	6](#_toc930982026)
 
 [Change Log	6](#_toc547309349)
 
+# <a name="_toc122063743"></a>Fuel Watch Today Tableau Dashboard
+[Tableau Public Link](https://public.tableau.com/app/profile/dan.hai8406/viz/FuelWatchProjectTableau/FuelWatchToday)
+![](fule_watch_screenshot.png)
 # <a name="_toc122063744"></a>Summary
 Pipeline aims to design a solution to extract current fuel prices from the Fuel Watch RSS feed. Refine the unstructured data, load it into a data lake, apply transformations, and construct a DB Datamart for utilization in Power BI.
 # <a name="_toc1882525152"></a>High Level Data Architecture
